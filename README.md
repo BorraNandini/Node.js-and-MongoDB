@@ -1,4 +1,4 @@
-------------------------------------------------Module1 ----------------------------------------------------->
+----------------------------------------------------- Module1 ----------------------------------------------------->
 -> Course Introduction
 -> Intoduction Data and  Databases
 
@@ -19,7 +19,7 @@ Document based database.
 Stores in data is BSON fromat(Binary JSON).
 
 
--------------------------------------------------Module2 ----------------------------------------------------->
+----------------------------------------------------- Module2 ----------------------------------------------------->
  -> MongoDB Installation and Setup
  1. MongoDB is available in two versions, community and enterprise. Community version is free and suitable for learning. 
  The installation process installs both the MongoDB binaries as well as the default configuration file <install directory>\bin\mongod.cfg 
