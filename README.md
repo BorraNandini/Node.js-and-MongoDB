@@ -24,6 +24,7 @@ Stores in data is BSON fromat(Binary JSON).
  1. MongoDB is available in two versions, community and enterprise. Community version is free and suitable for learning. 
  The installation process installs both the MongoDB binaries as well as the default configuration file <install directory>\bin\mongod.cfg 
  2. Install MongoDB Community .msi installer using this link https://www.mongodb.com/try/download/community?tck=docs_server
- 3. To run the MongoDB Installer, find MongoDB Installer (.msi file) from file explorer doble click the .msi file 
+ 3. To run the MongoDB Installer, find MongoDB Installer (.msi file) from file explorer doble click the (.msi) file.
+ 4. G
 
    
